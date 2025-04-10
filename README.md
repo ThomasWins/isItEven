@@ -31,5 +31,5 @@ Compile and run the Java program:
 The program will print 1000 Java if/else statements to the console, one for each number.
 
 ---
-**Feel free to copy and paste the code if needed for your project!**
+**Feel free to copy and paste all 6006 lines of code if needed for your project!**
 
