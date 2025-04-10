@@ -24,9 +24,9 @@ Example Output:
 
 Compile and run the Java program:
 
-`javac OddEvenChecker.java`
+`javac evenOdd.java`
 
-`java OddEvenChecker`
+`java evenOdd`
 
 The program will print 1000 Java if/else statements to the console, one for each number.
 
